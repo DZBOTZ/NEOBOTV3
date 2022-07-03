@@ -1,2 +1,2 @@
-worker: npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-worker1: npm install && bash main.sh
+web: npm start
+worker: npm install && bash main.sh
