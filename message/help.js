@@ -13,6 +13,6 @@ return `
  _- DANA : 08xxxxxxxx_
  _- OVO : 08xxxxxxxx_
  _- GOPAY : 08xxxxxxxx_
- _- QRIS : https://bit.ly/3yy0qoZ_
+ _- QRIS : https://xnxx.com
 `
 }
